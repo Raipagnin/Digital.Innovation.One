@@ -1,2 +1,2 @@
 # Digital.Innovation.One
-Online Bootcamp con several techs
+Online Bootcamp with several techs
